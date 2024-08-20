@@ -4,6 +4,8 @@
 #include <iostream>
 using namespace std;
 
+
+//llenado de matriz
 void llenado_matriz(int matriz[10][10], int filas, int columnas)
 {
     for (int i = 0; i < filas; i++)
